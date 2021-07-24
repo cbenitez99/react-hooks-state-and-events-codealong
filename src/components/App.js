@@ -6,6 +6,7 @@ function App() {
     <div>
       <h3>Toggle</h3>
       <Toggle />
+      <p>Help me</p>
     </div>
   );
 }
